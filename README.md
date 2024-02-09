@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohambasuri2015@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFgPVTO7aU/2Shb9_Ep77g1X3Qw6N0IMg/edit?utm_content=DAFgPVTO7aU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFgPVTO7aU/2Shb9_Ep77g1X3Qw6N0IMg/edit?utm_content=DAFgPVTO7aU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-b_t886COsP5IWauipjhrshK11jBVHUS/view?usp=sharing]
 
 - ⚡ Fun fact **I am funny**
 
