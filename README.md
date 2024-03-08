@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android & MERN STACK**
 
-- 👨‍💻 All of my projects are available at https://docs.google.com/document/d/1Jr3FSe_RZZleosPbfMBvzZs7RhWEtOJyagUCRRyMMKU/edit?usp=sharing
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1YdCcqK0Oftty-dGRSKvY3BFNUJpIuZUY/view?usp=sharing]
 
 - 💬 Ask me about **HTML,CSS,KOTLIN,PHP**
 
