@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1YdCcqK0Oftty-dGRSKvY3BFNUJpIuZUY/view?usp=sharing]
 
-- 💬 Ask me about **HTML,CSS,KOTLIN,PHP**
+- 💬 Ask me about **HTML,CSS,REACTJS,KOTLIN,PHP**
 
 - 📫 How to reach me **sohambasuri2015@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-b_t886COsP5IWauipjhrshK11jBVHUS/view?usp=sharing]
 
-- ⚡ Fun fact **I am funny**
+
 
 
 <p align="left">
