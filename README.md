@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **internships**
 
-- 🌱 I’m currently learning **Android & MERN STACK**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1YdCcqK0Oftty-dGRSKvY3BFNUJpIuZUY/view?usp=sharing]
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohambasuri2015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-b_t886COsP5IWauipjhrshK11jBVHUS/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Pzu1-5H_fsDlZTJvkdHilM2e0ND_5mAr/view?usp=sharing]
 
 
 
